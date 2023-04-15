@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao11TratamentoExcecoes\ExercicioTryCatch02\ExercicioTryCatch02\bin\Debug\net6.0\ExercicioTryCatch02.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao11TratamentoExcecoes\ExercicioTryCatch02\ExercicioTryCatch02\bin\Debug\net6.0\ExercicioTryCatch02.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao11TratamentoExcecoes\ExercicioTryCatch02\ExercicioTryCatch02\bin\Debug\net6.0\ExercicioTryCatch02.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao11TratamentoExcecoes\ExercicioTryCatch02\ExercicioTryCatch02\bin\Debug\net6.0\ExercicioTryCatch02.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao11TratamentoExcecoes\ExercicioTryCatch02\ExercicioTryCatch02\bin\Debug\net6.0\ExercicioTryCatch02.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao11TratamentoExcecoes\ExercicioTryCatch02\ExercicioTryCatch02\obj\Debug\net6.0\ExercicioTryCatch02.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao11TratamentoExcecoes\ExercicioTryCatch02\ExercicioTryCatch02\obj\Debug\net6.0\ExercicioTryCatch02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao11TratamentoExcecoes\ExercicioTryCatch02\ExercicioTryCatch02\obj\Debug\net6.0\ExercicioTryCatch02.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao11TratamentoExcecoes\ExercicioTryCatch02\ExercicioTryCatch02\obj\Debug\net6.0\ExercicioTryCatch02.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao11TratamentoExcecoes\ExercicioTryCatch02\ExercicioTryCatch02\obj\Debug\net6.0\ExercicioTryCatch02.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao11TratamentoExcecoes\ExercicioTryCatch02\ExercicioTryCatch02\obj\Debug\net6.0\ExercicioTryCatch02.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao11TratamentoExcecoes\ExercicioTryCatch02\ExercicioTryCatch02\obj\Debug\net6.0\refint\ExercicioTryCatch02.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao11TratamentoExcecoes\ExercicioTryCatch02\ExercicioTryCatch02\obj\Debug\net6.0\ExercicioTryCatch02.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao11TratamentoExcecoes\ExercicioTryCatch02\ExercicioTryCatch02\obj\Debug\net6.0\ExercicioTryCatch02.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao11TratamentoExcecoes\ExercicioTryCatch02\ExercicioTryCatch02\obj\Debug\net6.0\ref\ExercicioTryCatch02.dll
